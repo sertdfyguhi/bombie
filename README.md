@@ -21,3 +21,4 @@ print(bombie('bombie'))
 - python
 - spwn
 - shitlang
+- elixir
