@@ -22,3 +22,8 @@ print(bombie('bombie'))
 - spwn
 - shitlang
 - elixir
+- brainfuck
+- c++
+- java
+- lua
+- jsfuck
