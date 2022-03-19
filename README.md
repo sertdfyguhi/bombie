@@ -9,11 +9,15 @@ console.log(bombie('bombie'))
 ```
 or
 ```py
-def bombie(str) {
+def bombie(str):
   return str + '.'
-  
+
 print(bombie('bombie'))
 ```
 
 # langs
-- we have literally nothing right now
+- javascript
+- go
+- python
+- spwn
+- shitlang
