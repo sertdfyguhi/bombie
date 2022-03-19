@@ -1,0 +1,2 @@
+bombie = str: ;str + "."
+bombie("bombie")
