@@ -1,4 +1,4 @@
-function bombie(str: any) {
+function bombie(str: string) {
   return str + '.'
 }
 
