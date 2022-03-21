@@ -27,5 +27,6 @@ print(bombie('bombie'))
 - java
 - lua
 - jsfuck
+- jsyon
 - typescript
 - coffeescript

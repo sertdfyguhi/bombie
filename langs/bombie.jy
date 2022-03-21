@@ -1,0 +1,7 @@
+Obj[] (through) [>:[
+  ~>bombie = [:Fn[str, $:
+    ~>str + [.]
+  ]],
+  
+  print[@: ~>bombie[bombie]]
+]]
