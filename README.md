@@ -30,3 +30,5 @@ print(bombie('bombie'))
 - jsyon
 - typescript
 - coffeescript
+- csharp
+- ruby
