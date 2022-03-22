@@ -7,13 +7,6 @@ function bombie(str) {
 
 console.log(bombie('bombie'))
 ```
-or
-```py
-def bombie(str):
-  return str + '.'
-
-print(bombie('bombie'))
-```
 
 # langs
 - javascript
@@ -34,3 +27,6 @@ print(bombie('bombie'))
 - ruby
 - swift
 - php
+- haskell
+- julia
+- kotlin
