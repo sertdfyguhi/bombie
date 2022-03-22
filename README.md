@@ -30,3 +30,4 @@ console.log(bombie('bombie'))
 - haskell
 - julia
 - kotlin
+- bombliss (not real yet)
