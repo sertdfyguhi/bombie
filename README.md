@@ -32,3 +32,5 @@ print(bombie('bombie'))
 - coffeescript
 - csharp
 - ruby
+- swift
+- php
