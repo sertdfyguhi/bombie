@@ -2,7 +2,8 @@ using System;
 
 namespace Bombie {
   class Bombie {       
-    static string bombie(string str) {
+    static string bombie(string str) 
+    {
       return str + ".";
     }
 
