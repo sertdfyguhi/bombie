@@ -1,7 +1,9 @@
 using System;
 
-namespace Bombie {
-  class Bombie {       
+namespace Bombie 
+{
+  class Bombie 
+  {       
     static string bombie(string str) 
     {
       return str + ".";
