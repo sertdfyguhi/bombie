@@ -32,3 +32,4 @@ console.log(bombie('bombie'))
 - kotlin
 - bombliss (not real yet)
 - groovy
+- rust

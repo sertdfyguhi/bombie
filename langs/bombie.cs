@@ -1,8 +1,11 @@
 using System;
 
-namespace Bombie {
-  class Bombie {       
-    static string bombie(string str) {
+namespace Bombie 
+{
+  class Bombie 
+  {       
+    static string bombie(string str) 
+    {
       return str + ".";
     }
 
